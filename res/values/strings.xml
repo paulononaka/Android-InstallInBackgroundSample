@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstallInBackgroundSample</string>
+    <string name="txtApkFilePath">/system/app/Email.apk</string>
+    <string name="btnInstall">Install</string>
+    <string name="txtChooseApkFilePath">Choose the apk file path</string>
+    <string name="error">An error occurred. Check the logcat.</string>
+</resources>
