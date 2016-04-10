@@ -1,4 +1,4 @@
-package com.github.windsekirun.installapkinbackground;
+package com.github.paulononaka.installapkinbackground;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-import com.github.windsekirun.installapkinbackground.apihelper.ApplicationManager;
-import com.github.windsekirun.installapkinbackground.apihelper.OnInstalledPackaged;
+import com.github.paulononaka.installapkinbackground.apihelper.ApplicationManager;
+import com.github.paulononaka.installapkinbackground.apihelper.OnInstalledPackaged;
 
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "MainActivity";
