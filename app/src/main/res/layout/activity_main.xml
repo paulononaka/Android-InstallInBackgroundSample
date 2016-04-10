@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent">
+
+		<EditText
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:id="@+id/txtApkFilePath"
+						android:hint="Enter Path of APK File" />
+
+		<Button
+						android:layout_width="match_parent"
+						android:layout_below="@+id/txtApkFilePath"
+						android:layout_height="wrap_content"
+						android:id="@+id/btnInstall"
+						android:text="Install" />
+
+</RelativeLayout>
