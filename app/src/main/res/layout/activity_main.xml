@@ -7,13 +7,13 @@
 						android:layout_width="match_parent"
 						android:layout_height="wrap_content"
 						android:id="@+id/txtApkFilePath"
-						android:hint="파일 경로를 입력하세요." />
+						android:hint="Enter Path of APK File" />
 
 		<Button
 						android:layout_width="match_parent"
 						android:layout_below="@+id/txtApkFilePath"
 						android:layout_height="wrap_content"
 						android:id="@+id/btnInstall"
-						android:text="설치" />
+						android:text="Install" />
 
 </RelativeLayout>
