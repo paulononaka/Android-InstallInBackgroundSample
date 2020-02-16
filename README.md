@@ -1,10 +1,8 @@
 ## Android-InstallInBackground
 
-This is not maintained, although you may find it very helpfull since the internet lacks information of how doing this stuff.
+This is not maintained, although you may find it helpfull since the internet lacks information of how doing this stuff. I'm not even sure if it still working nowadays, although it has been confirmed by [@WindSekirun](https://github.com/WindSekirun) around Apr 2016. If you're currently working on it and you can confirm it still works or/and if you had to do any adjustment in order to make it work I would be very happy to add your updates here. :)
 
-I'm even not sure if it still working nowadays, although it has been confirmed by [@WindSekirun](https://github.com/WindSekirun) around Apr 2016. If 
-
-More detailed explanation of this code [How to install an application in background on Android](https://paulononaka.wordpress.com/2011/07/02/how-to-install-a-application-in-background-on-android/)
+Rich and detailed explanation of how the initial idea and the working code was originally created [How to install an application in background on Android](https://paulononaka.wordpress.com/2011/07/02/how-to-install-a-application-in-background-on-android/)
 
 Extra: [Apk with system privileges](https://paulononaka.wordpress.com/2011/10/19/apk-with-system-privileges/)
 
