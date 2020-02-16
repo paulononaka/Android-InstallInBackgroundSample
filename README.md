@@ -1,30 +1,23 @@
 ## Android-InstallInBackground
 
-This is improvement Version of [paulononaka/Android-InstallInBackgroundSample](https://github.com/paulononaka/Android-InstallInBackgroundSample)
+This is not maintained, although you may find it very helpfull since the internet lacks information of how doing this stuff.
 
-## Changes by Me (WindSekirun)
+I'm even not sure if it still working nowadays, although it has been confirmed by [@WindSekirun](https://github.com/WindSekirun) around Apr 2016. If 
+
+More detailed explanation of this code [How to install an application in background on Android](https://paulononaka.wordpress.com/2011/07/02/how-to-install-a-application-in-background-on-android/)
+
+Extra: [Apk with system privileges](https://paulononaka.wordpress.com/2011/10/19/apk-with-system-privileges/)
+
+## Improvements made by [@WindSekirun](https://github.com/WindSekirun) 
 
 - Enable Gradle Build System instead of ADT
 - Change Layout Position
 - Up to SDK Version / min: 8 -> 15 / target: 8 -> 23
 
-## Run Environment (Tested Device)
+**Tested on**
 
-I don't have any device with root permission, so i can't test it myself.
+- **Galaxy S7** SM-G930S | for Korea Market | Exynos 8890, LRDDR 4GB, **Marshmallow 6.0 APD1** runnning **Kitkat 4.4.2**
 
-But my friend tested this code.
+## Contributing 
 
-**Please notice to @WindSekirun or @paulononaka if you success to run this code with other device**
-
-- **Galaxy S7** SM-G930S | for Korea Market | Exynos 8890, LRDDR 4GB, **Marshmallow 6.0 APD1**
-- I don't know exactly device name and info, but it run **Kitkat 4.4.2**
-
-## Notice
-During Test, i discovered something important information.
-
-**When you use this code, you don't need to sign with Google.Keystore, just sign it with YOUR OWN KEYSTORE**
-
-## License & DISCLAMER
-
-I'm not owner of this code. if you have any issue of this code, please notice to @paulononaka , not me.
-and, I follow owner's license policy.
+Just open a Pull Request, issues or even help to answer some. :)
